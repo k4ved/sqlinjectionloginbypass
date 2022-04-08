@@ -12,7 +12,7 @@ ini_set('display_errors', 1);
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Majestic Admin</title>
+  <title>Super Secure Company</title>
   <!-- plugins:css -->
   <link rel="stylesheet" href="vendors/mdi/css/materialdesignicons.min.css">
   <link rel="stylesheet" href="vendors/base/vendor.bundle.base.css">
@@ -33,10 +33,10 @@ ini_set('display_errors', 1);
           <div class="col-lg-6 d-flex align-items-center justify-content-center">
             <div class="auth-form-transparent text-left p-3">
               <div class="brand-logo">
-                <img src="images/logo.svg" alt="logo">
+                <img src="images/secure_logo.png" alt="logo">
               </div>
-              <h4>Welcome back!</h4>
-              <h6 class="font-weight-light">Happy to see you again!</h6>
+              <h4>Welcome Employees!</h4>
+              <h6 class="font-weight-light">We are happy to see you again!</h6>
               <form class="pt-3" method="POST" autocomplete="off">
                 <div class="form-group">
                   <label for="exampleInputEmail">Username</label>
@@ -120,7 +120,7 @@ ini_set('display_errors', 1);
             </div>
           </div>
           <div class="col-lg-6 login-half-bg d-flex flex-row">
-            <p class="text-white font-weight-medium text-center flex-grow align-self-end">Copyright &copy; 2020  All rights reserved.</p>
+            <p class="text-white font-weight-medium text-center flex-grow align-self-end">SQL Injection Demo. Not For Production Use!</p>
           </div>
         </div>
       </div>
