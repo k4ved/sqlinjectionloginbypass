@@ -1,6 +1,9 @@
 MIT License
 
-Copyright (c) [2020] [Appsecco Ltd.]
+Copyright (c) [2022] [Andy James] - Adding it all together to look nice
+Copyright (c) [2020] [Appsecco Ltd.] - SQL Injection Badness (https://github.com/appsecco/sqlinjectionloginbypass)
+Copyright (c) 2019 Bootstrapdash - Admin Template (https://github.com/BootstrapDash/MajesticAdmin-Free-Bootstrap-Admin-Template)
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
